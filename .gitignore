@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-/_build
-/cover
-/deps
-/doc
-/.fetch
-erl_crash.dump
-*.ez
-*.beam
-/config/*.secret.exs
-.elixir_ls/
-||||||| (empty tree)
-=======
+
 # The directory Mix will write compiled artifacts to.
 /_build/
 
@@ -44,5 +32,3 @@ cd_gigalixir-*.tar
 # In case you use Node.js/npm, you want to ignore these.
 npm-debug.log
 /assets/node_modules/
-
->>>>>>> c7e56c9 (start)

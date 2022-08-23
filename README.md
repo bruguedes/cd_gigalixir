@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# cd_gigalixir
-||||||| (empty tree)
-=======
 # CdGigalixir
 
 To start your Phoenix server:
