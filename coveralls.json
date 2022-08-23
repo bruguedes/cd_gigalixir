@@ -1,11 +1,11 @@
 {
   "skip_files": [
-    "lib/pipeline_ci/application.ex",
-    "lib/pipeline_ci_web.ex",
-    "lib/pipeline_ci_web/views/error_helpers.ex",
+    "lib/cd_gigalixir/application.ex",
+    "lib/cd_gigalixir_web.ex",
+    "lib/cd_gigalixir_web/views/error_helpers.ex",
     "test/support/channel_case.ex",
     "test/support/data_case.ex",
-    "lib/pipeline_ci_web/telemetry.ex"
+    "lib/cd_gigalixir_web/telemetry.ex"
   ],
   "coverage_options": {
     "treat_no_relevant_lines_covered": true,
